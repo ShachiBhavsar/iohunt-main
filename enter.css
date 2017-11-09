@@ -1,0 +1,19 @@
+body{
+		background-image: url("bg1.jpg");
+		background-size: cover;
+		background-repeat: no-repeat;
+		color: Black;
+		font-size: 30px;
+}
+ul{
+	background-color: rgba(55,27,7,0.3);
+		background-size: cover;
+}
+form{
+	font-size: 50px;
+	font-family: cursive;
+}
+p{
+	font-size: 40px;
+	font-family: cursive;
+}
